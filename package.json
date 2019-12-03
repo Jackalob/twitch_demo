@@ -1,0 +1,30 @@
+{
+  "name": "twitch_demo",
+  "version": "1.0.0",
+  "description": "連結 : https://gasgasgass.github.io/ajax_twitch_demo",
+  "main": "lang_en.js",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gasgasgass/ajax_twitch_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gasgasgass/ajax_twitch_demo/issues"
+  },
+  "homepage": "https://github.com/gasgasgass/ajax_twitch_demo#readme"
+}
