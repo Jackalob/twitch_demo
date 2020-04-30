@@ -4,7 +4,7 @@
   "description": "連結 : https://gasgasgass.github.io/ajax_twitch_demo",
   "main": "lang_en.js",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
